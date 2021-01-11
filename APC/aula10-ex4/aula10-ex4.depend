@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1508950665 source:c:\users\usuario\desktop\c\aua10-ex4\main.c
+	<stdio.h>
+	<stdlib.h>
+

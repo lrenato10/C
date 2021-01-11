@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1512932921 source:c:\users\usuario\desktop\c\agenda\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1570991559 source:d:\engenharia\c\p23aoc\main.c
+	<stdio.h>
+	<stdlib.h>
+

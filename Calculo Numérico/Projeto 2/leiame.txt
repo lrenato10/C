@@ -1,0 +1,40 @@
+PASSOS:
+
+1- Compilar o codigo fonte "trab2_matriz_100.c";
+
+2- Executar "trab2_matriz_100.exe";
+
+3- Abrirá um console com um menu:
+
+	Digite 1 para aparecer no console o resultado do teste  1 e gerar o "Matriz_teste1.txt" contendo dados da matriz do MDF;
+
+	Digite 2 para aparecer no console o resultado do teste  2 e gerar o "Matriz_teste2.txt" contendo dados da matriz do MDF; 
+
+	Digite 3 para entrar na execução do exercício proposto;
+		Ele solicitará o valor do "n" no console que deverá ser um numero inteiro.
+		Ele gerará dois arquivos: “Matriz_exercicio_proposto.txt” mostrando a matriz do MDF;
+					  “Solucao_exercicio_proposto.txt” mostrando as soluções.
+
+	Digite 4 para rodar o refinamento do parâmetro W do Método de Sobre Relaxação Sucessiva;
+		Ele solicitará o valor do "n" no console que deverá ser um numero inteiro.
+		Ele gerará dois arquivos: “Matriz_exercicio_proposto.txt” mostrando a matriz do MDF;
+					  “Solucao_exercicio_proposto.txt” mostrando as soluções.
+
+
+	Digite 5 para rodar o teste que confere a convergência dos métodos de resolução do sistema linear;
+
+	Digite qualquer outra tecla para sair do programa.
+
+OBS.: Ao escolher alguma opção, caso seja necessário algum dado extra, aparecerá no prompt do console;
+
+OBS.2: Nomes não devem conter acentos ou espaço entre as palavras;
+
+OBS.3: Todos arquivos gerados, aparecem na mesma pasta do executável;
+
+OBS.4: Todos os graficos foram plotados utilizando o Excell;
+
+OBS.6: Alguns testes podem demandar tempo;
+
+OBS.7: Duvidas? entre em contato.
+	guilherme.agostini@ufu.br     [GUILHERME SALOMAO AGOSTINI - 11721EMT003]
+	lrenato10@hotmail.com     [LUIZ RENATO RODRIGUES CARNEIRO - 11721EMT004]
